@@ -1,0 +1,11 @@
+[package]
+name = "some-small-tools-fltk-rs"
+version = "0.1.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+fltk = "^1.1"
+dirs = "4.0"
+arboard = "2.0.0"
