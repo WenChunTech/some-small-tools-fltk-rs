@@ -9,6 +9,7 @@
   - [ ] Npm
   - [ ] Yarn
   - [ ] Python
+  - [ ] conda 
   - [ ] Maven
 - [ ] **杀端口**
   - [ ] Linux
